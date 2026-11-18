@@ -6,3 +6,5 @@
 - [ ] Convert my first blog post into an awesome site
 
 ## Review
+```bash
+ffmpeg -i input.mp4 -vf "negate,hue=h=180" output.mp4
